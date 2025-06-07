@@ -20,10 +20,10 @@ plugins:
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+title      : Thaki Cloud
+email      : info@thakicloud.co.kr #this is also the email contact forms will go to
+description: "Sovereign AI Cloud for the Next Wave of Generative AI. GPU·NPU 기반 초고성능 인프라와 오픈소스 PaaS/SaaS로 기업-규모 LLM 워크로드를 완전히 새롭게 가속합니다."
+author     : Thaki Cloud
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px

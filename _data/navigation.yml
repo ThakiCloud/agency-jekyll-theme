@@ -11,20 +11,20 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "핵심 역량"
       section: services
-    - title: "Portfolio"
+    - title: "제품·서비스"
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "타임라인"
       section: timeline
-    - title: "Team"
+    - title: "리더십"
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "채용공고"
+      url: https://linkedin.com/company/thakicloud/jobs
 
 en-001: #English (World)
   <<: *DEFAULT_EN
