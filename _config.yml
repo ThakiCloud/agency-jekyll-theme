@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # theme: jekyll-agency  # GitHub Pages에서 지원하지 않는 테마
-remote_theme: raviriley/agency-jekyll-theme@v2.0.1
+remote_theme: raviriley/agency-jekyll-theme
 
 plugins:
   - jekyll-remote-theme
