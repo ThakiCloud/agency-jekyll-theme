@@ -1,7 +1,8 @@
 #Color Customization
-#highlight: "#54bfff"
-#white: "#FF0000"
-#black: "#000"
+# 부유한 느낌의 보라색 테마
+highlight: "#6a4c93"  # 로얄 퍼플 - 메인 액센트 색상
+white: "#ffffff"      # 화이트
+black: "#2c3e50"      # 다크 그레이 (순수 검정색보다 부드러움)
 
 #Image Customization
 header-image: "../img/header.png"
