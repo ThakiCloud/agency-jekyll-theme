@@ -11,7 +11,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-agency
+# theme: jekyll-agency  # GitHub Pages에서 지원하지 않는 테마
+remote_theme: raviriley/agency-jekyll-theme@v2.0.1
+
+plugins:
+  - jekyll-remote-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog

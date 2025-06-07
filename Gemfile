@@ -1,6 +1,8 @@
-#after any changes to the Gemfile, execute bundle update!
+# GitHub Pages 호환을 위한 Gemfile
 source "https://rubygems.org"
-gemspec
+
+# GitHub Pages gem - 로컬 개발용
+gem "github-pages", group: :jekyll_plugins
 
 # Delete the following lines if not on Windows: 
 # Performance-booster for watching directories on Windows
